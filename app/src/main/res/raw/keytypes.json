@@ -1,0 +1,13 @@
+{"keys1":[
+  ["switch_panes","standard","standard","standard","standard","standard","standard"],
+  ["standard","standard","standard","standard","standard","standard","standard"],
+  ["standard","standard","standard","standard","standard","standard","standard"],
+  ["standard","standard","standard","standard","standard","standard","quit_application"]
+],
+  "keys2":[
+    ["standard","standard","standard","standard","standard","standard","space"],
+    ["standard","standard","standard","standard","standard+space","standard+space","standard+space"],
+    ["delete_letter","delete_word","toggle_shift_once","toggle_shift","standard","tab","standard"],
+    ["return","standard","standard+space","standard+space","standard","standard","standard"]
+  ]
+}
